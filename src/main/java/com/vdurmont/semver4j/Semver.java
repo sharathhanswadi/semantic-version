@@ -19,6 +19,7 @@ public class Semver implements Comparable<Semver> {
     public Semver(String value) {
         this(value, SemverType.STRICT);
     }
+    
 
     public Semver(String value, SemverType type) {
         this.originalValue = value;
