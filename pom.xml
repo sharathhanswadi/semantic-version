@@ -4,7 +4,7 @@
 
     <groupId>com.vdurmont</groupId>
     <artifactId>semver4j</artifactId>
-    <version>3.1.0</version>
+    <version>0.0.0-development</version>
     <packaging>jar</packaging>
 
     <name>semver4j</name>
