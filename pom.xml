@@ -4,19 +4,18 @@
 
     <groupId>com.vdurmont</groupId>
     <artifactId>semver4j</artifactId>
-    <version>3.1.0</version>
+    <version>0.0.0-development</version>
     <packaging>jar</packaging>
 
     <name>semver4j</name>
-    <url>https://github.com/vdurmont/semver4j</url>
+    <url>https://github.com/sharathhanswadi/semantic-version.git</url>
     <description>Semantic versioning for Java apps.</description>
 
     <scm>
-        <connection>scm:git:git@github.com:vdurmont/semver4j.git</connection>
-        <developerConnection>scm:git:git@github.com:vdurmont/semver4j.git</developerConnection>
-        <url>git@github.com:vdurmont/semver4j.git</url>
+        <connection>scm:git@github.com:sharathhanswadi/semantic-version.git</connection>
+        <developerConnection>scm:git@github.com:sharathhanswadi/semantic-version.git</developerConnection>
+        <url>git@github.com:sharathhanswadi/semantic-version.git</url>
     </scm>
-
     <developers>
         <developer>
             <name>Vincent DURMONT</name>
